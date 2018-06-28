@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Album</string>
+    <string name="text_delete">delete</string>
+    <string name="text_crop">crop</string>
+    <string name="text_filter">filter</string>
+    <string name="text_rotate">rotate</string>
+
+    <string name="nav_month">Month</string>
+    <string name="nav_album">Album</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_memory">Memory</string>
+</resources>

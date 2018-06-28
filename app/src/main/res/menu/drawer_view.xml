@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_month"
+            android:icon="@drawable/ic_calendar_today"
+            android:title="@string/nav_month" />
+        <item
+            android:id="@+id/nav_album"
+            android:icon="@drawable/ic_image_album"
+            android:title="@string/nav_album" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_google_maps"
+            android:title="@string/nav_map" />
+        <item
+            android:id="@+id/nav_memory"
+            android:icon="@drawable/ic_play_box_outline"
+            android:title="@string/nav_memory" />
+    </group>
+</menu>
