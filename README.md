@@ -1,6 +1,5 @@
 # Album
-Ứng dụng album ảnh 
-Được viết cho nền tảng android
+Ứng dụng album ảnh được viết cho nền tảng android
 
 # Danh sách ảnh
 ![image](https://i.imgur.com/nhKuMPU.png)
